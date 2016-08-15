@@ -1,0 +1,26 @@
+johny:
+  owner_name: Johny
+  picture: card-paris.jpg
+  owner_picture: kool-and-the-gang.jpeg
+  name: John's home
+  summary: Minimalist room in the desert
+  city: Texas
+  wifi: true
+
+kanye:
+  owner_name: Kanye West
+  picture: card-paris.jpg
+  owner_picture: kool-and-the-gang.jpeg
+  name: West's home
+  summary: Sick house in LA
+  city: Los Angeles
+  wifi: true
+
+jean:
+  owner_name: Jean paul
+  picture: card-paris.jpg
+  owner_picture: kool-and-the-gang.jpeg
+  name: Jean's house
+  summary: Maison à tombouctou
+  city: tombouctou
+  wifi: false
